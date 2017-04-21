@@ -13,6 +13,10 @@ body {
 	left: 0;
 }*/
 
+.text {
+	padding-left: 50px;
+}
+
 .data {
 	left: 20%
 }
@@ -23,15 +27,15 @@ h1, h2 {
 
 h1 {
 	font-family: 'Niconne', cursive;
-	font-size: 3em;
+	font-size: 4em;
 }
 
 h2 {
-	font-size: 2em;
+	font-size: 2.5em;
 }
 
 h3 {
-	font-size: 1em;
+	font-size: 1.75em;
 }
 
 h2, h3 {
@@ -47,6 +51,10 @@ a {
 
 ul {
 	list-style-type: none;
+}
+
+li {
+	font-size: 1.25em;
 }
 
 img {
